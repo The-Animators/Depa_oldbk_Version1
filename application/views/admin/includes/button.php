@@ -1,0 +1,2 @@
+<button type="button" id="save" data-form="system-form" class="btn btn-raised btn-primary btn-round waves-effect"><?= $strong .' ' .$pagetitle;?> <i class="zmdi zmdi-save" style="display: none"></i> </button>
+<button type="reset" class="btn btn-raised btn-danger btn-round waves-effect">Clear </button>	
